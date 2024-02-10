@@ -3,13 +3,18 @@ This C program implements the merge sort algorithm to sort an array of integers 
 
 # Files
 Merge_sort.c: This file contains the source code implementing the merge sort algorithm.
+<br>
 README.md: This file provides information about the program and its usage.
 
 # Functionality
 The Merge_sort.c file contains the following functions:
+<br>
 merge(int arr[], int low, int mid, int high): Merges two subarrays of arr[].
+<br>
 mergesort(int arr[], int low, int high): Recursively sorts the array using the merge sort algorithm.
+<br>
 printarray(int A[], int n): Prints the elements of an array.
+<br>
 In the main() function, an array of integers is defined and sorted using the mergesort() function. The sorted array is then printed using the printarray() function.
 
 # Contributing

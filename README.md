@@ -6,7 +6,7 @@ Merge_sort.c: This file contains the source code implementing the merge sort alg
 README.md: This file provides information about the program and its usage.
 
 # Functionality
-The merge_sort.c file contains the following functions:
+The Merge_sort.c file contains the following functions:
 merge(int arr[], int low, int mid, int high): Merges two subarrays of arr[].
 mergesort(int arr[], int low, int high): Recursively sorts the array using the merge sort algorithm.
 printarray(int A[], int n): Prints the elements of an array.
